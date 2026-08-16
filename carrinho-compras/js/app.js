@@ -1,7 +1,0 @@
-function adicionar() {
-
-}
-
-function limpar() {
-
-}
